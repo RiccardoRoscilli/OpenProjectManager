@@ -1,9 +1,5 @@
-<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>Open
-Project Manager</b></font></font></p>
-<p><br/>
-<br/>
-
-</p>
+<h1 style="text-align: center;">Open Project Manager</h1>
+<p>&nbsp;</p>
 <p>Open Project Manager nasce per tenere sotto controllo le attività
 quotidiane di sviluppo e per coordinare i diversi team in diversi
 progetti. Coinvolge clienti, collaboratori, project manager e mira a
